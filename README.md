@@ -2,7 +2,7 @@
 
 **Question:** Which customers of a telecom company are likely to churn, and which signals matter most?
 
-**A default random forest classified about 95% of customers correctly in 5-fold cross-validation (baseline 84%) and caught about 81% of the customers who churned.
+**Result in one line:** A default random forest classified about 95% of customers correctly in 5-fold cross-validation (baseline 84%) and caught about 81% of the customers who churned.
 
 ## Data
 
