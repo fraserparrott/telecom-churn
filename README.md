@@ -59,4 +59,4 @@ Top feature importances with all columns: `Complains` (0.19), `Seconds of Use` (
 ## Run it
 
 - Python with `pandas`, `numpy` and `scikit-learn`.
-- Download the dataset from the UCI repository, set the file path at the top of `[script file name]`, and run the script top to bottom.
+- Download the dataset from the UCI repository, set the file path at the top of `Iranian_Churn.py`, and run the script top to bottom.
